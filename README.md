@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C++ and python programming 
 - 💞️ I’m looking to collaborate on creating web applications 
 - 📫 How to reach me on my email, osutukndifreke@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: They are for him
+- ⚡ Fun fact: You use at least one web application every day
 
 <!---
 osu1212/osu1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
